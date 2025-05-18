@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 
 
 const corsOptions = {
-    origin: ['http://localhost:3000' , 'https://teen-xcel-theta.vercel.app', 'http://localhost:8080' , "http://localhost:8080/payments", 'https://preview-cb194ffb--site-manager-dashboard.lovable.app', "http://172.20.10.2:3000" , "http://localhost:8080", "http://192.168.29.76" , "http://127.0.0.1:5500","http://192.168.29.76" , "https://teen-xcel-uz7r.vercel.app" , 'https://raghav-0202.github.io/teenxcel-h' , 'https://raghav-0202.github.io'],
+    origin: ['http://localhost:5000' , 'https://raghav-0202.github.io'],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
     credentials: true ,
