@@ -129,7 +129,7 @@ POST   /api/notifications/update/:id - Update notification (admin)
 1. Clone the repository
    ```bash
    git clone https://github.com/RAGHAV-0202/Admin-Panel-CMS.git
-   cd course-management-system/backend
+   cd Admin-Panel-CMS/backend
    ```
 
 2. Install dependencies
@@ -158,7 +158,7 @@ POST   /api/notifications/update/:id - Update notification (admin)
 ### Admin Panel Setup
 1. Navigate to the admin directory
    ```bash
-   cd ../admin
+   cd ../frontend
    ```
 
 2. Install dependencies
@@ -166,14 +166,9 @@ POST   /api/notifications/update/:id - Update notification (admin)
    npm install
    ```
 
-3. Create a `.env` file with the API URL:
-   ```
-   REACT_APP_API_URL=http://localhost:5000/api
-   ```
-
-4. Start the admin panel
+3. Start the admin panel
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 📁 Project Structure
