@@ -1,10 +1,10 @@
-# Course Management System
+# Educational Course Selling Platform Content Management System 
 
 ![Node.js](https://img.shields.io/badge/Node.js-v16+-green.svg)
 ![Express](https://img.shields.io/badge/Express-v4.x-blue.svg)
 ![React](https://img.shields.io/badge/React-v18+-61DAFB.svg)
 
-A full-stack Course Management System with user-friendly admin panel, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A full-stack Educational Course Selling Platform Content Management System  with user-friendly admin panel, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## 🌟 Features
 
